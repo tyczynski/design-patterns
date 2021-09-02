@@ -1,0 +1,21 @@
+{
+  "name": "typescript-state-machine-example",
+  "version": "1.0.0",
+  "description": "A state design pattern (State Machine)  example",
+  "main": "demo.ts",
+  "scripts": {
+    "start": "nodemon demo.ts"
+  },
+  "keywords": [
+    "state design pattern",
+    "state machine",
+    "example"
+  ],
+  "author": "Przemysław Tyczyński <przemyslaw@tyczynski.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
